@@ -7,11 +7,11 @@
   display:block-inline;
 }
 body{
-  background-color:white;
+  background-color:green
 }
 
 i{
-  color:black;}
+  color:blue;}
 .name{
   outline-color: black;
   border-color: black;
@@ -30,11 +30,7 @@ i{
   margin: 20px;
   padding-bottom: 25px;
   border-color:;
-  border:5px solid white;
-}
-.me:hover{
-  background-color: ;
-  
+  border:2px solid white;
 }
 #form{
   text-align: center;
