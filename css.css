@@ -1,0 +1,40 @@
+*{
+  background-color:n;
+  
+  margin: 10px;
+  margin-top: 0px;
+}
+body{
+  color: blue;
+  background-color: cadetblue;
+  position: absolute;
+  z-index: 0
+}
+#family{
+  text-align: center;
+  text-decoration: 5px underline;
+  color:white ;
+  padding-top: 40px;
+  font-size: 80px;
+}
+.square{
+  height:560px;
+  width: 250px;
+  color:black;
+  text-align:left;
+  padding-top: 40px;
+  border: 3px solid white;
+  margin:50px;
+  margin-left: 80px;
+  background-color:rgba(140,80,0,0.3);
+  display:inline-block;
+  border-radius:10px;
+  z-index: 0px;
+  padding:30px 20px 15px 40px;
+  }
+.square:hover{
+  background-color:rgba(80,25,65,0.3);
+  color:#cccccc;
+  
+}
+
